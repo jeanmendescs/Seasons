@@ -1,4 +1,4 @@
-Este projeto foi originado como exercício de um curso de "Modern React with Redux" postado na plataforma Udemy.
+Este projeto foi originado como exercício do curso de "Modern React with Redux" postado na plataforma Udemy.
 Segue link de acesso ao curso:
 https://www.udemy.com/course/react-redux/
 
